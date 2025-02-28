@@ -7,7 +7,7 @@
 
 This assigment is less of an application to be used and more of a demonstration of the "cypress-ctrf-json-reporter" package and the "github-actions-ctrf".
 
-Click <a href="https://challenge-20-2008.onrender.com">here</a> to visit the deployed site in action.
+
 
 ## Table of Contents
 
@@ -20,8 +20,7 @@ Click <a href="https://challenge-20-2008.onrender.com">here</a> to visit the dep
 - [Future-Features](#future-features)
 - [License](#license)
 - [Technologies](#technologies-used)
-- [Credits](#credits)
-- [Contact Me](#contact-me)
+
 
 ## Required Technologies
 
@@ -155,17 +154,3 @@ Licensed under the MIT license.
 <li>Mozila Web Docs and W3 Schools (for getting help with TypeScript).</li>
 </ul>
 
-## Credits
-
-<ul>
-<li>Joshua Pruitt (me)</li>
-<li>Coding bootcamp staff (for their help with Coding)</li>
-</ul>
-
-## Contact Me
-
-<ul>
-<li>My email: joshuapruitt6484@gmail.com</li>
-<li><a href=https://github.com/JoshuaPruitt>My GitHub</a></li>
-<li><a href=https://www.linkedin.com/in/joshua-pruitt-1a494a311>My LinkedIn</a></li>
-</ul>
